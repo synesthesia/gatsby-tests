@@ -1,3 +1,3 @@
 module.exports = {
-    pathPrefix: "/gatsby-tests"
+    pathPrefix: "/gatsby-tests/"
 }
